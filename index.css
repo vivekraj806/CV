@@ -39,7 +39,7 @@ font-weight: bold;
 
 .pahela{
   text-align: center;
-    background-image:url(../key.jpeg);
+    background-image:url(key.jpeg);
     background-size: cover;
     margin: 0;
 
@@ -47,7 +47,7 @@ font-weight: bold;
 
 .dusra{
   text-align: center;
-  background-image: url(../turtle.jpg);
+  background-image: url(turtle.jpg);
   background-size: cover;
 }
 hr{
